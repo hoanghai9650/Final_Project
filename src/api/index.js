@@ -1,0 +1,1 @@
+export const URL_API = 'http://svcy3.myclass.vn/api';
